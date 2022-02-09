@@ -35,5 +35,5 @@
 # Results:
 
 <p align="center">
-    <img src="Figures/Ablation.png" width="1000" height="340">
+    <img src="Figures/Ablation.png" width="1000" height="240">
 </p>
