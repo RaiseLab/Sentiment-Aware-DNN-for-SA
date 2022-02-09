@@ -3,7 +3,7 @@
 
 # Model Architecture:
 <p align="center">
-<img src="Figures/KR_MODEL.png" width="1000" height="280">
+<img src="Figures/KR_MODEL.png" width="1000" height="180">
 </p>
 
 
