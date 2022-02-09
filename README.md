@@ -12,7 +12,7 @@
 ### Sentiment feature extraction by WCSL
 
 <p align="center">
-    <img src="Figures/Sentiment_feature_extraction_by_WCSL.png" width="650" height="280">
+    <img src="Figures/Sentiment_feature_extraction_by_WCSL.png" width="650" height="250">
 </p>
 
 ### Feature selection top k
