@@ -33,5 +33,3 @@
 - conda install tensorflow-gpu==1.13.1
 ```
 
-
-# Visual Results:
