@@ -3,7 +3,7 @@
 
 # Model Architecture:
 <p align="center">
-<img src="Figures/KR_MODEL.png" width="1000" height="310">
+<img src="Figures/KR_MODEL.png" width="1000" height="280">
 </p>
 
 
@@ -12,13 +12,13 @@
 ### Sentiment feature extraction by WCSL
 
 <p align="center">
-    <img src="Figures/Sentiment_feature_extraction_by_WCSL.png" width="350" height="240">
+    <img src="Figures/Sentiment_feature_extraction_by_WCSL.png" width="550" height="350">
 </p>
 
 ### Feature selection top k
 
 <p align="center">
-    <img src="Figures/Feature_selection_top_k.png" width="350" height="240">
+    <img src="Figures/Feature_selection_top_k.png" width="550" height="240">
 </p>
 
 
