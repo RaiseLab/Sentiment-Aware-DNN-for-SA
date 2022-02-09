@@ -3,7 +3,7 @@
 
 # Model Architecture:
 <p align="center">
-<img src="Results/MultiPoseSeg.png" width="1000" height="310">
+<img src="Figures/KR_MODEL.png" width="1000" height="310">
 </p>
 
 
