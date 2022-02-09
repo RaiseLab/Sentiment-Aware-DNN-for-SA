@@ -32,4 +32,8 @@
 - conda install -c anaconda scikit-image
 - conda install tensorflow-gpu==1.13.1
 ```
+# Results:
 
+<p align="center">
+    <img src="Figures/Ablation.png" width="1000" height="240">
+</p>
