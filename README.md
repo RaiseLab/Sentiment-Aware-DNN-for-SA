@@ -18,7 +18,7 @@
 ### Feature selection top k
 
 <p align="center">
-    <img src="Figures/Feature_selection_top_k.png" width="1000" height="240">
+    <img src="Figures/Feature_selection_top_k.png" width="1000" height="220">
 </p>
 
 
