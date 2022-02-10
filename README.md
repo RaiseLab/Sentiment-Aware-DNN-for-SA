@@ -25,12 +25,11 @@
 # Environmental Setup:
 
 ```
-- python==3.6
-- conda install -c conda-forge matplotlib==2.0.2
-- conda install -c conda-forge opencv OR pip install opencv-python
-- conda install -c conda-forge pycocotools
-- conda install -c anaconda scikit-image
-- conda install tensorflow-gpu==1.13.1
+- python==3.7
+- pip install keras-bert
+- pip install keras-rectified-adam
+- pip install tensorflow==2.2.0
+- pip install keras==2.3.1
 ```
 # Results:
 
